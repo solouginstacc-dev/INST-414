@@ -1,0 +1,7 @@
+cluster,cluster_description,player,matches_played,win_pct,avg_set_diff,avg_point_diff,unique_opponents,avg_opponent_win_pct
+0,Weaker performance,Lutskyi V.,25,0.4,-0.6,-2.2,8,0.5146867798867799
+0,Weaker performance,Nakliutskyi A.,30,0.36666666666666664,-0.6333333333333333,-3.8,9,0.4959795409286914
+1,Stronger performance,Doubek K.,20,0.65,0.4,3.35,9,0.4828220335321062
+1,Stronger performance,Stanciu D.,25,0.64,0.72,2.32,9,0.49305242966751917
+2,High-activity balanced,Sklyarenko A.,50,0.52,0.04,-0.4,12,0.5115091845091845
+2,High-activity balanced,Mrykh M.,44,0.5227272727272727,0.022727272727272728,-0.4090909090909091,12,0.512644453358739

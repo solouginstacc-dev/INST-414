@@ -1,0 +1,4 @@
+cluster,cluster_description,matches_played,win_pct,avg_set_diff,avg_point_diff,unique_opponents,avg_opponent_win_pct,players
+0,Weaker performance,22.659,0.349,-0.698,-3.317,8.804,0.513,138
+1,Stronger performance,23.399,0.635,0.635,2.941,9.028,0.479,143
+2,High-activity balanced,50.234,0.502,0.011,0.098,13.094,0.503,171
